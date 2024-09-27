@@ -15,7 +15,7 @@ DOM tree features such as event propagation and event delegation.
 	- Implements a smooth scrolling effect when users click on the navigation bar links
 - Slider component: <br>
 	- A slider element implemented to display testimonials. Clicking on the left/right
-arrow buttons or pressing the left/right keyboard arrows allows the user to navigate
+arrow buttons or pressing the left/right keyboard arrows allows the users to navigate
 through the slides
 - Lazy loading images: <br>
 	- When the website first loads, images are displayed in a small size with a blur effect.
