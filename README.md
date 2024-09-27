@@ -8,17 +8,17 @@ DOM tree features such as event propagation and event delegation.
 
 ## App Features
 - Reveal elements when scrolling:<br>
-Sections are revealed as the user scrolls the page
+	- Sections are revealed as the user scrolls the page
 - Page Navigation: <br>
-Users can navigate to different sections using the top navigation bar links
+	- Users can navigate to different sections using the top navigation bar links
 - Smooth scrolling:<br>
-Implements a smooth scrolling effect when users click on the navigation bar links
+	- Implements a smooth scrolling effect when users click on the navigation bar links
 - Slider component: <br>
-A slider element implemented to display testimonials. Clicking on the left/right
+	- A slider element implemented to display testimonials. Clicking on the left/right
 arrow buttons or pressing the left/right keyboard arrows allows the user to navigate
 through the slides
 - Lazy loading images: <br>
-When the website first loads, images are displayed in a small size with a blur effect.
+	- When the website first loads, images are displayed in a small size with a blur effect.
 As the user scrolls down, the images are displayed in full size and the blur effect removed. This improves website load times.
 
 
