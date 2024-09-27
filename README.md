@@ -1,5 +1,5 @@
 # Bankist Site
-This project is a simple banking website to demonstrate the use
+This project is a simple banking website to demonstrate the use of
 DOM tree features such as event propagation and event delegation.
 
 ## How to run
