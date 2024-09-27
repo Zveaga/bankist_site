@@ -8,7 +8,7 @@ DOM tree features such as event propagation and event delegation.
 
 ## App Features
 - Reveal elements when scrolling:<br>
-	- Sections are revealed as the user scrolls the page
+	Sections are revealed as the user scrolls the page
 
 
 ## Technologies
