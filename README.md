@@ -12,7 +12,7 @@ Sections are revealed as the user scrolls the page
 - Page Navigation: <br>
 Users can navigate to different sections using the top navigation bar links
 - Smooth scrolling:<br>
-Navigate to the website's sections with a smooth effect
+Implements a smooth scrolling effect when users click on the navigation bar links
 - Slider component: <br>
 A slider element implemented to display testimonials. Clicking on the left/right
 arrow buttons or pressing the left/right keyboard arrows allows the user to navigate
